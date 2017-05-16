@@ -1,0 +1,31 @@
+body {
+	font-family: Arial;
+	background-color: #C8C8C8;
+	color: #6B8972;
+}
+
+.header {
+	text-align: center;
+	color: #055B19;	
+}
+
+
+.header h1 {
+	margin-left: 515px;
+	border: 2px solid #287B46;
+	width: 300px;
+}
+
+.main h3 {
+	text-align: center;
+	color: #4C4C4C;
+	font-size: 22px;
+}
+
+.results img {
+	margin-left: 150px;
+	text-align: center;
+	border: 2px solid #4C4C4C;
+	width: 1100px;
+	height: 450px;
+}
